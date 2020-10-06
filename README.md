@@ -33,6 +33,7 @@ PASSWD="PASSWORD" # 密码
 bash /path/to/ssp-autocheckin.sh
 [2020-08-24 14:05:18] "登录成功"
 [2020-08-24 14:05:19] "获得了 59 MB流量"
+
 ```
 
 如下：
